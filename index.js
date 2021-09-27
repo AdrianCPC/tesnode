@@ -1,6 +1,6 @@
 import express from 'express'
 import morgan from 'morgan'
-import allRoutes from './routes'
+import allRoutes from './src/routes'
 
 
 //DOCUMENTATION
